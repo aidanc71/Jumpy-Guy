@@ -1,4 +1,0 @@
-location some-location {
-  add_header "Cross-Origin-Opener-Policy" "same-origin";
-  add_header "Cross-Origin-Embedder-Policy" "require-corp";     
-}

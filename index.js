@@ -1,3 +1,8 @@
+/* const cors = require('cors');
+const app = express();
+
+*/
+
 
 var Godot = (() => {
   var _scriptDir = typeof document !== 'undefined' && document.currentScript ? document.currentScript.src : undefined;
